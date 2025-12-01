@@ -14,4 +14,4 @@ This is a static website that explains the very basics of producing and publishi
 - Jekyll
 - Website Structure with index pages in Markdown
 
-[Back to Home](/)
+[Back to Home](/test_page_structure)
